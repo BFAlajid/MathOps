@@ -1,0 +1,11 @@
+from mathops import add, subtract, multiply, divide
+
+result_add = add(3, 5)
+result_subtract = subtract(8, 3)
+result_multiply = multiply(4, 7)
+result_divide = divide(10, 2)
+
+print(f"Addition: {result_add}")
+print(f"Subtraction: {result_subtract}")
+print(f"Multiplication: {result_multiply}")
+print(f"Division: {result_divide}")
