@@ -1,2 +1,10 @@
+
 # MathOps
-A Python library for basic mathematical operations such as addition, subtraction, multiplication, and division.
+
+MathOps is a simple Python library for basic mathematical operations.
+
+## Installation
+
+```bash
+pip install mathops
+
